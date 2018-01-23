@@ -1,0 +1,336 @@
+Curriculum Vitae
+Jonathan Pool
+
+Contact:
+  Email: pool@stulta.com
+  Home telephone: (510) 225-1717
+  Mobile telephone: (510) 225-1700
+  Mail: 555 10th St, Oakland CA 94607-5208
+
+Employment objective:
+  An opportunity to build, test, revise, document, and learn software that promotes efficiency and fairness
+
+Profiles:
+  Github (https://github.com/jrpool)
+  LinkedIn (https://www.linkedin.com/in/jonathanpool)
+  Stack Overflow (https://stackoverflow.com/users/story/1572601)
+  MDN Web Docs (https://developer.mozilla.org/en-US/profiles/JonathanPool)
+  Google Scholar (https://scholar.google.com/citations?user=qSNjYhQAAAAJ&hl=en)
+  GitLab (https://gitlab.com/JonathanPool)
+  Twitter (https://twitter.com/JonathanRPool)
+
+Skills:
+
+    Skill: Full-stack JavaScript-based web development
+    Level: Junior
+    Technologies: bcrypt, body-parser, Bootstrap, chai, cherio, cookie-session, cryptr, CSS, dotenv, ejs, ESLint, express, express-session, express, HTML, JavaScript, JQuery, Lodash, Materialize, mocha, mongoose, morgan, nodemon, npm, pg (node-postgres), pg-promise, PM2, pug, request-promise-native, resume-cli, selenium-webdriver, session-file-store, Underscore, XMLHttpRequest
+
+    Skill: Perl-based software development
+    Level: Junior
+    Technologies: cpan, dbd::pg, dbi, LWP::UserAgent, mojolicious, perl
+
+    Skill: Java-based software development
+    Level: Junior
+    Technologies: Java, JavaDoc, Apache solr
+
+    Skill: Other programming languages
+    Level: Junior
+    Technologies: Visual Basic for Applications, 68000 Assembly Language, APL
+
+    Skill: Database systems
+    Level: Junior
+    Technologies: PostgreSQL, MongoDB, FileMaker Pro
+
+    Skill: Server software
+    Level: Junior
+    Technologies: postfix, Apache httpd, nginx, puppet
+
+    Skill: Services
+    Level: Junior
+    Technologies: Amazon EC2, Amazon S3, Amazon Glacier, Heroku, SendGrid Web API, OVH VPS platform, OVH dedicated-server platform
+
+    Skill: Operating systems
+    Level: Junior
+    Technologies: Ubuntu Linux server, Red Hat Enterprise Linux, OS X, Windows, Cisco firewall/router/switch OS
+
+    Skill: Productivity applications
+    Level: Junior
+    Technologies: Apache OpenOffice (Calc, Writer, Impress), Microsoft Office (Excel, Word, PowerPoint), iWork (Keynote, Pages, Numbers)
+
+Languages:
+
+    Language: English (Native speaker)
+    Language: Esperanto (High)
+    Language: German (Medium-high)
+    Language: Turkish (Medium)
+    Language: French (Medium-low)
+    Language: Russian (Medium-low)
+    Language: Norwegian (Bokmål) (Medium-low)
+
+Education:
+
+    Institution: Learners Guild
+    Website: https://www.learnersguild.org/
+    Area: Software development
+    Study Type: Apprenticeship
+    Start Date: 2017-05-01
+    End Date: 2018-02-16
+    GPA: N/A
+    Courses:
+      - Foundations
+      - Practice
+      - Apprenticeship
+
+    Institution: University of Washington
+    Website: http://www.washington.edu
+    Area: Computational linguistics and computer science
+    StudyType: Course work
+    StartDate: 2004-03-29
+    EndDate: 2007-06-01
+    GPA: 3.97
+    Courses:
+      - CSE 142: Computer Programming I
+      - Linguistics 461: Syntax I
+      - Linguistics 462: Syntax II
+      - Linguistics 472: Introduction to Computational Linguistics
+      - Linguistics 580: Problems in Linguistics (Introduction to Syntax for Computational Linguistics)
+      - Linguistics 567: Grammar Engineering
+      - CSE 143: Computer Programming II
+      - CSE 373: Data Structures and Algorithms
+      - CSE 415: Artificial Intelligence
+      - Linguistics 580: Problems in Linguistics (Lexical Ambiguity)
+      - CSE 490: Special Topics in CSE (Human–Computer Interaction 1 & 2)
+      - Linguistics 575: Computational Linguistics Topics
+      - Other courses audited
+
+
+    Institution: The University of Chicago
+    Website: https://www.uchicago.edu
+    Area: Policital science
+    StudyType: M.A. and Ph.D.
+    StartDate: 1966-09-01
+    EndDate: 1971-04-30
+    GPA: Unknown
+    Courses:
+      - Graduate courses in political science
+
+    Institution: Harvard University
+    Website: https://www.harvard.edu
+    Area: Government
+    StudyType: B.A., cum laude
+    StartDate: 1960-09-01
+    EndDate: 1964-06-30
+    GPA: Unknown
+    Courses:
+      - Undergraduate courses in mathematics, natural and social sciences, and humanities
+
+Work:
+
+    Company: The Long Now Foundation
+    Position: Project Director
+    Website: http://longnow.org
+    ProjectWebsite: https:panlex.org
+    StartDate: 2012-01-01
+    EndDate: 2015-12-19
+    Summary: PanLex is the successor to the PanDictionary project of the Turing Center at the University of Washington (2006–2010), directed by Oren Etzioni. PanLex is building an open-source database documenting all known lexical translations among all languages and dialects, living and dead, natural and artificial, with the purpose of making cross-language information exchange and retrieval more effective for languages of all sizes and supporting cross-linguistic research.
+    Highlights:
+      - Converted database from MS SQL Server to PostgreSQL
+      - Grew data from 13 million to 24 million lexemes
+      - Grew pairwise translation count to 1.3 billion
+      - Designed and implemented Web interfaces to database for developers, end users, and search engines
+      - Documented standards, practices, and tools for other developers
+      - Presented technical conference papers
+      - Published technical article
+
+    Company: Centerplex
+    Position: Proprietor
+    Website: http://stulta.com/misc/cx/
+    StartDate: 1990-12-14
+    EndDate: 2004-06-11
+    Summary: Centerplex purchased, improved, and operated 4 Tukwila, Washington, office buildings. Centerplex pioneered micro-offices, virtual tenancies, tenant-friendly draft-your-own web leases, web reservations of conference rooms, high-speed Internet access as a free tenant amenity, and energy-conservation and recycling programs.
+    Highlights:
+      - Earned EPA Energy Star for Small Business Award, 1999
+      - Lighting upgrade got honorable mention from International Interior Design Association, 1999
+      - Profiled in Joseph Romm, “Cool Companies” (2006)
+
+    Company: University of Washington
+    Position: Assistant and Associate Professor
+    Website: http://www.washington.edu
+    StartDate: 1977-09-16
+    EndDate: 1993-06-15
+    Summary: Research and teaching in political science, with concentrations in language policy, social choice theory, and quantitative research methods.
+    Highlights:
+      - Presented conference papers
+      - Published book chapters, research articles, and working papers
+      - Visiting research and teaching appointments at U of Paderborn (Germany) and U of Bielefeld (Germany)
+
+    Company: State University of New York at Stony Brook
+    Position: Assistant Professor
+    Website: http://www.stonybrook.edu/
+    StartDate: 1971-01-01
+    EndDate: 1977-06-15
+    Summary: Research and teaching in political science, with concentrations in language policy, social choice theory, and quantitative research methods.
+    Highlights:
+      - Presented conference papers
+      - Published book chapters, research articles, and working papers
+      - Visiting appointments at U of Mannheim (Germany), McGill U (Montréal), USSR Academy of Sciences, and Stanford U
+
+Volunteering:
+
+    Organization: ESLint
+    Position: Contributor
+    Website: https://eslint.org/
+    StartDate: 2017-10-12
+    Summary: ESLint is the premier linting tool for JavaScript.
+    Highlights:
+      - Submitted 16 merged commits in first month
+      - Became #26 out of 566 contributors by commit count
+      - Contributing to absorbtion of JSCS by ESLint
+
+    Organization: Mozilla Foundation
+    Position: Contributor to MDN Docs
+    Website: https://developer.mozilla.org
+    StartDate: 2017-02-20
+    Summary: MDN Docs is the premier repository of authoritative developer-facing documentation on HTML, CSS, JavaScript, and related APIs.
+    Highlights:
+      - Made 224 edits in documentation in 8 months
+
+    Organization: Utilika Foundation
+    Position: President
+    Website: http://stulta.com/misc/uf/
+    StartDate: 2004-05-03
+    EndDate: 2011-12-31
+    Summary: Utilika Foundation supported the work of the UW Turing Center on the PanDictionary project and assumed management of it as the PanLex project when the Turing Center’s work on it ended. The foundation turned the project over to The Long Now Foundation in 2012.
+    Highlights:
+      - Presented technical conference papers at CLAW/AMTA 2006, K-CAP 2007, SAAKM 2007, LISA Berkeley 2009, Machine Translation Summit XII, Coling 2010, and DELPH-IN Summit 2011
+
+    Organization: Berkeley Town House Cooperative Corporation
+    Position: Director and Secretary
+    Website: http://berkeleytownhouse.com
+    StartDate: 2011-05-24
+    EndDate: 2011-12-06
+    Summary: Berkeley Town House is the first senior housing cooperative in the United States, founded in 1960.
+    Highlights:
+      - Helped evaluate prospects of recovery for construction defects
+      - Recorded official corporate business
+      - Recovered, organized, and digitized corporate records
+
+    Organization: Peace Corps
+    Position: Volunteer
+    Website: https://www.peacecorps.gov
+    StartDate: 1964-06-15
+    EndDate: 1966-06-15
+    Summary: The fourth contingent of Peace Corps Volunteers in Turkey was trained at Portland State University and mostly taught English as a foreign language at the secondary level.
+    Highlights:
+      - Taught in middle and high schools in Nevşehir and İstanbul, Turkey
+      - Published articles in a Turkish news magazine (“Yön”) and “Peace Corps Volunteer”
+      - Published a language textbook
+
+    Organization: Operation Crossroads Africa
+    Position: Volunteer
+    Website: http://operationcrossroadsafrica.org/
+    StartDate: 1963-06-15
+    EndDate: 1966-08-15
+    Summary: Operation Crossroads Africa organizes manual labor projects in Africa with international participation.
+    Highlights:
+      - Participated in building a community center in Nsoatre, Ghana
+
+Awards:
+
+    Title: Faculty Research Programme grant
+    Date: 1985-11-01
+    Awarder: Embassy of Canada to the United States
+    Summary: The Political Economy of Language
+
+    Title: Educational software development grant
+    Date: 1983-07-01
+    Awarder: University of Maryland
+    Summary: Computer Simulation in Multilingual International Studies
+
+    Title: Research grant
+    Date: 1978-09-01
+    Awarder: National Science Foundation
+    Summary: Computer Equipment for Experimental Political Science Research
+
+    Title: Collaborative research grant
+    Date: 1978-05-01
+    Awarder: American Association for the Advancement of Slavic Studies
+    Summary: Language and Ethnicity in the USSR: Advances in Policy Research
+
+    Title: Conference travel grant
+    Date: 1978-08-01
+    Awarder: Ford Foundation
+    Summary: Travel support for 9th World Congress of Sociology
+
+    Title: Research stipend
+    Date: 1975-09-01
+    Awarder: American Association for the Advancement of Slavic Studies
+    Summary: Soviet language policy
+
+    Title: Awards for visiting research and teaching appointments
+    StartDate: 1973
+    EndDate: 1975
+    Awarder: National Academy of Sciences of the USA, Academy of Sciences of the USSR, Social Science Research Council, Alexander von Humboldt-Stiftung, Deutscher Akademischer Austauschdienst, and Council for European Studies
+    Summary: Survey, experimental, and theoretical research
+
+Selected Publications:
+
+    Author and title: David Kamholz, Jonathan Pool, and Susan M. Colowick, “PanLex: Building a Resource for Panlingual Lexical Translation”
+    Publisher: LREC
+    ReleaseDate: 2014
+    Website: https://pdfs.semanticscholar.org/4bf5/387ec770f557525484b7c99be3a0c568651a.pdf
+    Summary: Technical description of the PanLex project of The Long Now Foundation
+
+    Author and title: Patrick Westphal, Claus Stadler, and Jonathan Pool, “Countering language attrition with PanLex and the Web of Data”
+    Publisher: Semantic Web Journal
+    ReleaseDate: 2015
+    Website: http://www.semantic-web-journal.net/system/files/swj509.pdf
+    Summary: Technical report on creation of an RDF interface to the PanLex database
+
+    Author and title: Timothy Baldwin, Jonathan Pool, and Susan M. Colowick, “PanLex and LEXTRACT: Translating all Words of all Languages of the World”
+    Publisher: Coling
+    ReleaseDate: 2010
+    Website: http://turing.cs.washington.edu/papers/BaldwinEtAl-Lextract.pdf
+    Summary: Technical report on attempts to automate the parsing of heterogeneous multilingual dictionaries for extraction of translations
+
+    Author and title: Katherine Everitt, Christopher Lim, Oren Etzioni, Jonathan Pool, Susan Colowick, and Stephen Soderland, “Evaluating Lemmatic Communication”
+    Publisher: Trans-kom
+    ReleaseDate: 2010
+    Website: http://www.trans-kom.eu/bd03nr01/trans-kom_03_01_03_Everitt_et_al_Lemmatic_Communication.20100531.pdf
+    Summary: Experiment on conditions of success in lemmatic communication between Spanish- and Hungarian-speaking subjects
+
+    Author and title: Jonathan Pool and S. M. Colowick, “Syntactic Disambiguation for the Semantic Web”
+    Publisher: SAAKM
+    ReleaseDate: 2007
+    Website: http://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-289/po02.pdf
+    Summary: Experimental comparison of paraphrasal and truth-conditional selection as methods of disambiguation
+
+    Author and title: Jonathan Pool, “The Multilingual Election Problem”
+    Publisher: Journal of Theoretical Politics
+    ReleaseDate: 1992
+    Website: https://old.panlex.org/pubs/etc/multielectprob.pdf
+    Summary: Formal model of political polarization with candidates advocating conflicting policies to dissimilar audiences
+
+    Author and title: Reinhard Selten and Jonathan Pool, “The Distribution of Foreign Language Skills as a Game Equilibrium”
+    Publisher: Springer
+    ReleaseDate: 1991
+    Website: https://pdfs.semanticscholar.org/fe68/86cfbf8c2d18f4175b490dcc8837a14d3a5c.pdf
+    Summary: Model of interactive decisions on acquiring knowledge of additional languages
+
+    Author and title: Jonathan Pool, “The Official Language Problem”
+    Publisher: American Political Science Review
+    ReleaseDate: 1991
+    Website: https://www.jstor.org/stable/1963171
+    Summary: Model of a solution to the problem of choosing optimally efficient official languages while treating speakers of all languages fairly
+
+    Author and title: Bernard Grofman and Jonathan Pool, “How to Make Cooperation the Optimizing Strategy in a Two-Person Game”
+    Publisher: Journal of Mathematical Sociology
+    ReleaseDate: 1977
+    Website: http://www.tandfonline.com/doi/abs/10.1080/0022250X.1977.9989871?src=recsys&
+    Summary: Proves the existence of a partial tit‐for‐tat (matching) strategy that induces an optimizing opponent to cooperate in an iterated Prisoner's Dilemma game
+
+    Author and title: Jonathan Pool, “Coalition Formation in Small Groups with Incomplete Communication Networks”
+    Publisher: Journal of Personality and Social Psychology
+    ReleaseDate: 1976
+    Website: https://old.panlex.org/pubs/etc/cfsg.pdf
+    Summary: Report of an experiment on the effects of communication restrictions on coalition formation and competitive success
